@@ -1,4 +1,4 @@
-# Ecommerce Project PostTraining
+# Ecommerce Project 
 
 ## Project Overview
 
@@ -156,4 +156,4 @@ Project_Screenshots/
 
 Sharath H L
 
-Project: Ecommerce Project PostTraining using Spring Boot
+Project: Ecommerce Project  using Spring Boot
