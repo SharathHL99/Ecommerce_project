@@ -6,7 +6,7 @@
   },
   "variable": [
     { "key": "baseUrl", "value": "http://localhost:8080/api", "type": "string" },
-    { "key": "userId", "value": "1", "type": "string" },
+    { "key": "userId", "value": "1", "type": "string" }, 
     { "key": "cartId", "value": "1", "type": "string" },
     { "key": "productId", "value": "1", "type": "string" },
     { "key": "orderId", "value": "1", "type": "string" },
