@@ -6,7 +6,7 @@ The application follows a standard layered Spring Boot architecture, with a cros
 
 ```mermaid
 flowchart TB
-    Client["Client (Postman / curl / Swagger UI)"]
+    Client["Client (Postman / curl / Swagger UI)"] 
 
     subgraph API["Controller Layer (REST)"]
         UC[UserController]
