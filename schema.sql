@@ -1,5 +1,5 @@
 -- =====================================================================
--- E-Commerce Cart & Checkout Module - Database Schema
+-- E-Commerce Cart & Checkout Module - Database Schema 
 -- Target: MySQL 8.x (adjust AUTO_INCREMENT / types if using Postgres/H2)
 -- =====================================================================
 
